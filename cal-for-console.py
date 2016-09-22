@@ -17,7 +17,6 @@ replace = Fore.RED + '%s'  %   localtime[2]
 newCal = re.sub(regex, replace + Fore.WHITE, cal)
 rewek = re.sub('Сб Вс', Fore.RED + 'Сб Вс' + Fore.CYAN, newCal)
 rewek = re.sub('Пн Вт Ср Чт Пт', Fore.YELLOW + 'Пн Вт Ср Чт Пт', rewek)
-
-#print (newCal)
-print (rewek)
+res = Style.RESET_ALL
+print (rewek, res)
 
