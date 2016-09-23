@@ -1,9 +1,12 @@
-Two small a Python script to colorize calendar.
+## **Two small a Python script to colorize calendar.**
 
-This screenshot calendar for console.
-<br>
+<hr>
+### This screenshot calendar for console.
+
 ![Console](https://github.com/delvin-fil/python-cal/blob/master/console.png)
 
-This calendar for Conky
-<br>
+<hr>
+### This calendar for Conky.
+
 ![Conky](https://github.com/delvin-fil/python-cal/blob/master/screen.png)
+
