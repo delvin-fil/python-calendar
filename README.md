@@ -8,7 +8,7 @@
 <hr>
 ### This calendar for Conky.
 
-![Conky](https://github.com/delvin-fil/python-cal/blob/master/12:57:43-09-11-16.png)
+![Conky](https://github.com/delvin-fil/python-cal/blob/master/21:16:57-04-04-17.png)
 <hr>
 ###
 Два небольших скрипта на Python дря раскрашивания календаря.
